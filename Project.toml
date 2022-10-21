@@ -3,6 +3,9 @@ uuid = "555e4ab0-f7a9-4505-a62e-c43f67e36c5a"
 authors = ["Fraser Doswell <doswellf@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+InnerExamples = "d62495ee-cbdc-46e5-b0f0-aa0d75334c7b"
+
 [compat]
 julia = "1"
 
