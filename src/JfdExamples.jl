@@ -1,5 +1,8 @@
 module JfdExamples
 
-# Write your package code here.
+using JfdExamples
+
+export sum_values
+include("graph_functions.jl")
 
 end
